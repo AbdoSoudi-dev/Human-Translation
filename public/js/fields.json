@@ -1,0 +1,93 @@
+{
+    "Scientific" : {
+        "Mathematics": "",
+        "Logic": "",
+        "Statistics": "",
+        "Computer science": [
+            "Artificial Intelligent",
+            "Deep Learning",
+            "Data Science",
+            "Computer Network",
+            "Systems Science",
+            "Information Technology"
+        ]
+    },
+    "Natural science" : {
+        "Physics" : "",
+        "Chemistry" : "",
+        "Earth science" : "",
+        "Astronomy" : "",
+        "Geology" : "",
+        "Agricultural science" : "",
+        "Medicine" : "",
+        "Dentistry" : "",
+        "Pharmacy" : "",
+        "Biology" : [
+            "Ecology",
+            "Biochemistry",
+            "Microbiology",
+            "Botany",
+            "Zoology",
+            "Meteorology"
+        ]
+    },
+    "Technical" : {
+        "Civil Engineering": "",
+        "Mechanical Engineering": "",
+        "Automatic Engineering": "",
+        "Telecommunication": "",
+        "Electrical engineering": [
+            "Electrical",
+            "Electronics",
+            "Electrical Network",
+            "Electrical Machine",
+            "Vehicles Electric",
+            "Renewable Energies",
+            "Solar Energy",
+            "Wind Energy"
+        ]
+    },
+    "Literary" : {
+        "Social sciences" : "",
+        "Economics" : "",
+        "Political science" : "",
+        "Sociology" : "",
+        "Law" : "",
+        "Philosophy" : "",
+        "Psychology" : "",
+        "Cultural anthropology" : "",
+        "Business administration" : "",
+        "Jurisprudence" : "",
+        "Pedagogy" : "",
+        "History" : "",
+        "Anthropology" : "",
+        "Archaeology" : "",
+        "Geography" : "",
+        "Religious sciences" : [
+            "American Religions",
+            "Buddhist Studies",
+            "Islamic Studies",
+            "Jewish Texts and Traditions",
+            "Late Antiquity",
+            "Religion, Ethics & Philosophy",
+            "South Asian Religions"
+        ]
+    },
+    "Artistic" : {
+        "Stories" : "",
+        "Hobby" : "",
+        "Poetry" : "",
+        "Sport" : "",
+        "News" : ""
+    },
+    "Web content" : {
+        "Education" : "",
+        "Ecommerce Translations" : "",
+        "Government Translations" : "",
+        "Marketing" : "",
+        "AdSense" : ""
+    },
+    "Other": {
+        "Other" : ""
+    }
+}
